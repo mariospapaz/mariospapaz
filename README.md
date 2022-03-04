@@ -22,4 +22,4 @@ University of West Attica (2021) # 2th Semester
 * Development Security and Operations (DevSecOps)
 
 
-![alt text](https://wallpaperaccess.com/full/6185930.jpg)
+
