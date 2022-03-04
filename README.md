@@ -13,9 +13,9 @@
 * Automation 🔧
 
 ### Certifications: 👨‍🎓
-C2 Michigan State University (2020)
-Vocational Certificate in Computers & Networking 
-University of West Attica (2021) # 2th Semester 
+* C2 Michigan State University (2020)
+* Vocational Certificate in Computers & Networking 
+* University of West Attica (2021) # 2th Semester 
 
 
 ### Desires
