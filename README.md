@@ -1,4 +1,6 @@
 ### Hi there, I am Marios Papazogloy 👋
+DevSecOps Enjoyer
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariospapaz&show_icons=true&theme=radical)
 
@@ -18,8 +20,5 @@
 * University of West Attica (2021) # 2th Semester 
 
 
-### Desires 👨‍💻
-* Development Security and Operations (DevSecOps)
-
-
-
+### Contributions
+* lJinux (Started in 15/03/2022)
