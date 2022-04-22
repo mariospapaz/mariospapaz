@@ -21,4 +21,4 @@ DevSecOps Enjoyer
 
 
 ### Contributions
-* lJinux (Started in 15/03/2022)
+* lJinux
