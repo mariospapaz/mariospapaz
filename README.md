@@ -1,6 +1,6 @@
 ### Hi there, I am Marios Papazogloy 👋
 
-I like anything related to CyberSec and Operations philosopies.
+I like anything related to GameDev, CyberSec and DevOps philosopies.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariospapaz&show_icons=true&theme=radical)
 
