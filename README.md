@@ -1,4 +1,4 @@
-### Hi there, I am Marios Papazogloy 👋
+### Hi there 👋
 
 I like anything related to GameDev, CyberSec and DevOps philosopies.
 
